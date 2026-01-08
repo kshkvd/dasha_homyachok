@@ -4,8 +4,8 @@
 const hamster = {};
 
 //2
-hamster.name = 'Dasha';
-hamster.type = 'Hamster';
+hamster.name = 'dasha';
+hamster.type = 'hamster';
 hamster.age = 1;
 hamster.color = 'grey';
 
@@ -15,10 +15,10 @@ hamster.color = 'golden';
 
 //4
 const hamsterActivities = [];
-hamsterActivities.push('Eat');
-hamsterActivities.push('Run in wheel');
-hamsterActivities.push('Sleep');
+hamsterActivities.push('eat');
+hamsterActivities.push('run in wheel');
+hamsterActivities.push('sleep');
 
 //5
-console.log('Hamster object:', hamster);
-console.log('Hamster activities:', hamsterActivities);
+console.log('hamster object:', hamster);
+console.log('hamster activities:', hamsterActivities);
